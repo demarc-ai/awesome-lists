@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/deMarc-AI/awesome-npm-libraries.svg?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/deMarc-AI/awesome-npm-libraries)
+[![GitHub Stars](https://img.shields.io/github/stars/demarc-ai/awesome-lists.svg?style=for-the-badge&logo=github&color=ff6b6b)](https://github.com/deMarc-AI/awesome-npm-libraries)
 [![Last Updated](https://img.shields.io/badge/Updated-September%202025-brightgreen.svg?style=for-the-badge&logo=calendar)](https://github.com/deMarc-AI/awesome-npm-libraries)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge&logo=git&color=4ECDC4)](https://github.com/deMarc-AI/awesome-npm-libraries/blob/main/CONTRIBUTING.md)
 
